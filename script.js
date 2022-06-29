@@ -82,7 +82,7 @@ class Menu {                                // This Menu Class is to view the in
         ${foodTypeInfo}
         `);
     }
-
+// 
     displayFoodTypes() {                            // This shows each food type that was created
         let foodTypeString = '';
         for (let i = 0; i < this.foodTypes.length; i++) {
